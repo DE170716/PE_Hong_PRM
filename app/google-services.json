@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022073080020",
+    "project_id": "pe-hong-prm",
+    "storage_bucket": "pe-hong-prm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022073080020:android:26c1a5b70640f2ce431341",
+        "android_client_info": {
+          "package_name": "com.example.pe_prm_anhhong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8hQ_YxleTbv8gczBBVMrWUO31rvphHO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
